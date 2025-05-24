@@ -15,7 +15,7 @@ Explore the full design on Figma:
 
 ## 💻 App Screens
 
-### 🖼️ Landing Page
+### 🖼️ Landing Page.
 ![Landing Page](./designs/Landing%20Page.png)
 
 ### 🏠 Home Screen
