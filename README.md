@@ -1,4 +1,4 @@
-# 🌸 HedhiApp
+# 🌸 SikuZangu App
 
 A simple, intuitive, and privacy-focused menstrual cycle tracking app designed to help users log their period, track symptoms, and gain health insights. Built with women in Tanzania in mind.
 
