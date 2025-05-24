@@ -2,10 +2,16 @@
 
 A simple, intuitive, and privacy-focused menstrual cycle tracking app designed to help users log their period, track symptoms, and gain health insights. Built with women in Tanzania in mind.
 
-## 📱 Figma Design
+---
+
+## 🎨 Design Tool Used
+
+[![Figma](https://img.shields.io/badge/Design-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/design/TfMrqsxwzr3nLWILVdHIfX/Menstrual-Tracker?node-id=0-1&t=zO7o2bMGuT33RLFy-1)
 
 Explore the full design on Figma:  
 🔗 [View Design on Figma](https://www.figma.com/design/TfMrqsxwzr3nLWILVdHIfX/Menstrual-Tracker?node-id=0-1&t=zO7o2bMGuT33RLFy-1)
+
+---
 
 ## 💻 App Screens
 
@@ -15,6 +21,7 @@ Explore the full design on Figma:
 ### 🏠 Home Screen
 ![Home Screen](./designs/Home_Dashboard.png)
 
+---
 
 ## 🧩 Features by Screen
 
