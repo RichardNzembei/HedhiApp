@@ -7,6 +7,13 @@ A simple, intuitive, and privacy-focused menstrual cycle tracking app designed t
 Explore the full design on Figma:  
 🔗 [View Design on Figma](https://www.figma.com/design/TfMrqsxwzr3nLWILVdHIfX/Menstrual-Tracker?node-id=0-1&t=zO7o2bMGuT33RLFy-1)
 
+
+## 💻 App Screens
+
+![Landing Page](/designs/Landing%20Page.png)
+![Home Screen](/designs/Home_Dashboard.png)
+
+
 ## 🧩 Features by Screen
 
 ### 1. **Welcome / Onboarding (3 Screens)**
